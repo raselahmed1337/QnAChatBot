@@ -1,4 +1,4 @@
-# Q&A Chatbot for Documents — VS Code setup
+# Q&A Chatbot for Documents
 
 This is a corrected version of `QnAChatBotForDocuments.ipynb`. PDF extraction
 and retrieval run locally with TF-IDF; answers use OpenRouter's free-model

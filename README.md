@@ -2,7 +2,7 @@
 
 A lightweight local Q&A web app that indexes PDFs (selectable text) with a local TF‑IDF retriever and produces answers via a remote OpenRouter model. This project is a corrected, easier-to-run version of `QnAChatBotForDocuments.ipynb` and is intended to run locally without requiring an OpenAI account or downloading large local models.
 
-Key points
+Key points 
 
 - PDF text extraction and retrieval run locally using TF‑IDF.
 - Answers are generated through an OpenRouter model (a free-model router can be used).
